@@ -1,1 +1,0 @@
-# homework-14-javascript-dom
